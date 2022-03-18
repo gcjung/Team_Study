@@ -5,9 +5,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
 
-    std::cout << "World Hello\n";
+    std::cout << "이영종2524\n";
+    std::cout << "이영종1431\n";
+
 
 }
 
