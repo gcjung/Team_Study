@@ -1,12 +1,9 @@
-
 #include <iostream>
-
-using namespace std;
 
 void main()
 {
 
-	cout << "hooni" << endl;
+	std::cout << "hooni" << std::endl;
 	//Jahoon1
 
 }
