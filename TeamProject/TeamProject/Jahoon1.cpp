@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
 
 void main()
 {
-	cout << "ÀÌÀÚÈÆ" << endl;
+
+	std::cout << "hooni" << std::endl;
 	//Jahoon1
 }
