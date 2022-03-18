@@ -6,11 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "gcjung 수정1\n";
-    std::cout << "gcjung 수정2\n";
-    std::cout << "gcjung 수정3\n";
-    std::cout << "gcjung 수정4\n";
-    std::cout << "gcjung 수정5\n";
+
+    std::cout << "World Hello\n";
+
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
